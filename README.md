@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sana8200
-- 👀 I’m interested in software development, networking, and problem-solving, and currently studying at KTH. 
+- I’m interested in software development, networking, and problem-solving, and currently studying at KTH. 
 - 📫 How to reach me www.linkedin.com/in/sana-monhaseri-90821a298
 
 <!---
